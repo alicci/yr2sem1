@@ -1,0 +1,227 @@
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\ZADANIE_3.exe.config
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\ZADANIE_3.exe
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\ZADANIE_3.pdb
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\System.Buffers.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\System.Collections.Immutable.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\System.Memory.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\System.Buffers.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\System.Collections.Immutable.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\System.Memory.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.csproj.AssemblyReference.cache
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.Form1.resources
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.Properties.Resources.resources
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.csproj.GenerateResource.cache
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.csproj.CoreCompileInputs.cache
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.csproj.CopyComplete
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.exe
+C:\Users\akape\Desktop\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.pdb
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\ZADANIE_3.exe.config
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\ZADANIE_3.exe
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\ZADANIE_3.pdb
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Buffers.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Collections.Immutable.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Memory.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Buffers.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Collections.Immutable.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Memory.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.csproj.AssemblyReference.cache
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.Form1.resources
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.Properties.Resources.resources
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.csproj.GenerateResource.cache
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.csproj.CoreCompileInputs.cache
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.csproj.CopyComplete
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.exe
+C:\Users\janco\Desktop\UKW 2023-24\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.pdb
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\ZADANIE_3.exe.config
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\ZADANIE_3.exe
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\ZADANIE_3.pdb
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Buffers.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Collections.Immutable.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Memory.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Buffers.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Collections.Immutable.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Memory.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.csproj.AssemblyReference.cache
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.Form1.resources
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.Properties.Resources.resources
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.csproj.GenerateResource.cache
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.csproj.CoreCompileInputs.cache
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.csproj.CopyComplete
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.exe
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem1\Inżynieria Oprogramowania\ZADANIA 3\ZADANIA\ZADANIE_3\ZADANIE_3\obj\Debug\ZADANIE_3.pdb
